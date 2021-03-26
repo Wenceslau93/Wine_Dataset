@@ -12,7 +12,7 @@ Mais detalhes do dataset, acesse: https://archive.ics.uci.edu/ml/datasets/wine
 <br/>
 <br/>
 
-<p align="center"><a href="https://wenceslau93.github.io/Health-Analytics/">Acesse o projeto Clicando Aqui!</a></p>
+<p align="center"><a href="https://wenceslau93.github.io/Wine_Dataset/">Acesse o projeto Clicando Aqui!</a></p>
 
 <br/>
 
