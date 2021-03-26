@@ -1,5 +1,5 @@
 # Wine_Dataset
-Conjunto de dados de vinho
+Conjunto de dados de vinho.
 
 Esses dados são resultados de uma análise química de vinhos cultivados em uma região da Itália, derivados de três cultivares diferentes.
 
